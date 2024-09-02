@@ -1,0 +1,95 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.navbar-links {
+  margin-inline: 20px;
+}
+
+.front-heading {
+  font-size: 56px;
+  font-weight: 600;
+}
+
+.see-all-car-link {
+  font-size: 18px;
+}
+
+.front-car-img {
+  width: 123%;
+}
+
+.car-logos {
+  width: 50px;
+}
+
+.about-us {
+  margin-top: 10%;
+}
+
+.arrow {
+  transform: rotate(180deg);
+  margin-left: 10px;
+}
+
+.services-div {
+  background-image: url("img/back-ground\ image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 430px;
+}
+
+.services-heading {
+  /* color: rgb(125, 102, 255); */
+  color: white;
+}
+
+.services_card_img {
+  width: 120px;
+}
+
+.services-card-upper-div {
+  width: 100%;
+  height: 10px;
+}
+
+.collection_div {
+  margin-top: 5%;
+}
+
+.dollar-icon {
+  font-size: 40px;
+  color: goldenrod;
+}
+
+.car-info {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer-upper-div {
+  background-image: url("img/second-back-groud.png");
+  background-repeat: no-repeat;
+  background-size: 100% 430px;
+  margin-top: 8%;
+}
+
+.download1 {
+  width: 160px;
+}
+
+.download2 {
+  width: 200px;
+}
+
+.main-footer {
+  background-color: black;
+}
+
+.footer-link {
+  color: white;
+}
+
+.plateform-icon {
+  width: 30px;
+}
